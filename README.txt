@@ -1,4 +1,4 @@
-I downloaded pre-built files from html5up.net and modified the files to my liking. 
+I downloaded pre-built files from html5up.net and modified index.html to my liking. 
 Original README file that came from the download is below.
 
 -Francis
