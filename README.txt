@@ -1,3 +1,10 @@
+I downloaded pre-built files from html5up.net and modified the files to my liking. 
+Original README file that came from the download is below.
+
+-Francis
+
+------------------------------------------------------------------------------------------------
+
 Solid State by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
